@@ -1,0 +1,8 @@
+This directory tree is generated automatically by godep.
+
+Please do not edit.
+
+See https://github.com/tools/godep for more information.
+
+Please note: `Godeps` and the vendoring process is garbage.
+We'd rather not use it, but are forced to because etcd does.
